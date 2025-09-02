@@ -39,23 +39,5 @@ I'm **[Your Name]** 😎
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/er_pruthvi_kekan_07/)  
 [![YouTube](https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@parlhadkekan5238)
 
-# Pruthviraj Kekan (pruthvikekan) GitHub Stats
-
----
-
-### 📊 GitHub Stats
-![Pruthviraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PruthvirajKekan&show_icons=true&theme=radical)
-
----
-
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthvirajKekan&layout=compact&theme=radical)
-
----
-
-### 📂 Popular Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PruthvirajKekan&repo=Text-to-Image-Generation&theme=radical)](https://github.com/PruthvirajKekan/Text-to-Image-Generation)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PruthvirajKekan&repo=Next-Gen-AI-Image-Generator&theme=radical)](https://github.com/PruthvirajKekan/Next-Gen-AI-Image-Generator)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PruthvirajKekan&repo=Task-Manager-App&theme=radical)](https://github.com/PruthvirajKekan/Task-Manager-App)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PruthvirajKekan&repo=Masters-Management&theme=radical)](https://github.com/PruthvirajKekan/Masters-Management)  
+e-stats.vercel.app/api/pin/?username=PruthvirajKekan&repo=Masters-Management&theme=radical)](https://github.com/PruthvirajKekan/Masters-Management)  
 
