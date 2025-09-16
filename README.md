@@ -75,7 +75,8 @@
 </p>
 
 ---
+### 📊 GitHub Stats  
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PruthvirajKekan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PruthvirajKekan&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthvirajKekan&layout=compact&theme=radical)
